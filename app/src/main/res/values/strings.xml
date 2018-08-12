@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="url_base" translatable="false">https://www.googleapis.com/books/v1/volumes</string>
+    <string name="no_books">No books</string>
+    <string name="no_connection">No connection</string>
+    <string name="what_to_search_for">What to search for?</string>
+    <string name="search">Search</string>
+    <string name="enter_into_the_search_what_book_you_want">Enter into the search what book you want</string>
+</resources>
